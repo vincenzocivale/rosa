@@ -1,4 +1,6 @@
 {
     "name": "ROSA (ROS for All)",
-    "description": "Short description of my plugin"
+    "version": "0.1",
+    "description": "Short description of my plugin",
+    "author": "Vincenzo Yuto Civale"
 }
